@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_CA3_Project/static/css/main.3d27b7fd.css",
+    "main.js": "/React_CA3_Project/static/js/main.182dfbcb.js",
+    "index.html": "/React_CA3_Project/index.html",
+    "main.3d27b7fd.css.map": "/React_CA3_Project/static/css/main.3d27b7fd.css.map",
+    "main.182dfbcb.js.map": "/React_CA3_Project/static/js/main.182dfbcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d27b7fd.css",
+    "static/js/main.182dfbcb.js"
+  ]
+}
